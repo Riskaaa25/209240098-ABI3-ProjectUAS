@@ -400,8 +400,8 @@
       header {
         display: flex;
         flex-direction: column;
-        gap: 10px;
-        margin-top: 2px;}
+        gap: 5px;
+        margin-top: 10px;}
       .detail-image {
-        max-width: 325px; /* Di HP biar lebih kecil */ }
+        max-width: 350px; /* Di HP biar lebih kecil */ }
      }
