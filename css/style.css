@@ -401,6 +401,6 @@
         display: flex;
         flex-direction: column;
         gap: 5px;
-        margin-top: 10px;}
+        margin-top: 5px;}
       .detail-image {
-        max-width: 200px; /* Di HP biar lebih kecil */ }
+        max-width: 280px; /* Di HP biar lebih kecil */ }
