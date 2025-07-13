@@ -387,10 +387,15 @@
       font-family: 'Verdana';
     }
 
-    /* mobile phone */
-      @media (max-width: 320px) {
-        html {
-          font-size: 55%;
-        }
-      }
+     @media (max-width: 600px){
+      .produk-container {flex-direction: column; align-items: center,}
+      main { padding: 10px 0 70px 0;} 
+      .produk, .detail-produk {width: 95%;}
+      form {width: 100%}
+      .search-bar input[type="text"]
+      {width: 95vw;}
+      .bottom-nav i {font-size: 20px}
+      .modal-content {padding: 14px;}
+      #keranjangContainer > table {min-width: 0; width: 100%}
+    }
    
