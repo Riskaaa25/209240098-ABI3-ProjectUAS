@@ -120,11 +120,6 @@
 
     }
 
-    @media (max-width: 600px) {
-      #home {
-      padding: 50px 10px;
-       }
-
     /* ===== Product Carousel ===== */
     .product-container {
       position: relative;
